@@ -1,4 +1,3 @@
-layout_spectrum: 0.07294663484208286
 typography_spectrum: 0.12271250714547932
 color:
   brandStrength: 0.5026823338121176
@@ -11,5 +10,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.07294663484208286
 name: Bobby Dale Barina
+title: My first page
 description: posting
